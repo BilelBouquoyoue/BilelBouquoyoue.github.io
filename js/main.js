@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Bouquoyoue Bilel.","étudiant à l'EPHEC.", "un Développeur."],
+      strings: ["Bouquoyoue Bilel.","diplomé de l'EPHEC.", "un Développeur."],
       typeSpeed: 100,
       loop: true,
     });
